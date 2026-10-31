@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/publish/
+**/LogFiles/
+**/worker-logs/
+**/__pycache__/
+*.py[cod]
+*.pid
+*.zip
+.vs/

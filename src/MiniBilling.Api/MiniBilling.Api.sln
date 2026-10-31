@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBilling.Api", "MiniBilling.Api.csproj", "{F62E9B15-9444-0393-7736-6A998389AEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62E9B15-9444-0393-7736-6A998389AEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62E9B15-9444-0393-7736-6A998389AEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62E9B15-9444-0393-7736-6A998389AEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62E9B15-9444-0393-7736-6A998389AEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A0E601-DF93-46B2-AC91-9B70DE3DADA8}
+	EndGlobalSection
+EndGlobal
